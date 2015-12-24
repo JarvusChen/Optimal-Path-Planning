@@ -16,5 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│── finalpath.m：透過關係表，將路徑取出來<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│── pathtoorder9.m：將路徑轉換成給Arduino的指令<br><br>
 
+指令傳給Arduino後的行為<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│── orders.ino：接收Matlab的指令，並讓機器車移動<br><br>
+
 使用說明請參考此頁面下方
 <a href="http://jarvus.comuf.com/proCACS.php" target=blank>專題：最佳化路徑規畫</a>
